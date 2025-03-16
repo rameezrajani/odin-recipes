@@ -1,1 +1,1 @@
-# odin-recipes
+A project created for the purpose of learning and experimenting with HTML by creating webpage index that links to cooking recipes.
